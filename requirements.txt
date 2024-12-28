@@ -1,0 +1,4 @@
+Flask==2.1.2
+fpdf==1.7.2
+openai==0.27.0
+youtube-transcript-api==0.4.4
